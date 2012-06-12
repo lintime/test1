@@ -3,5 +3,5 @@
 void main()
 {
 	int i;
-	cout<<"hello world"<<endl;
+	cout<<"version 1 hello world"<<endl;
 }
